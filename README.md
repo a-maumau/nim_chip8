@@ -15,7 +15,7 @@ Some kind people are providing ROMs, please use those or create by yourself.
 - https://github.com/kripod/chip8-roms
 
 # Keys
-To Quit manually, press `ESCAPE`.
+To quit manually, press `ESCAPE`.
 
 Input keys are replaced for keyboards.
 ```
@@ -44,7 +44,7 @@ make
 
 # Run
 ```sh
-chip8 <ROM.chip8>
+chip8 <ROM.ch8>
 ```
 
 ![sample image of emulator is runnning](img/sample_image.png)
